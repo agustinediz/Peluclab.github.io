@@ -15,7 +15,7 @@ Doctor Susana Peluc is the PI of the Birds Ecology and Ecophisiology Group (GEEA
 - Woody invasive plants as promoters or disruptors of the seed dispersal service provided by native frugivore birds.
 - Impacts of the habitat fragmentation, disturbance and loss over birds in the population and community levels.
 - Patterns and processes underliying variations in functional and taxonomical avifauna diversity, associated with the invasion of woody exotic plants in central Argentina. 
-- Eco-epidemiologycal caracterizacion of _Zenaida auriculata_(Columbidae) as host of the Saint Louies encephalitis and West Nile virus (Flavivirus).
+- Eco-epidemiologycal caracterizacion of _Zenaida auriculata_ (Columbidae) as host of the Saint Louies encephalitis and West Nile virus (Flavivirus).
 
 ### Contact us
 
